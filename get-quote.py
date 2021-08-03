@@ -1,4 +1,4 @@
-def main():
+def primary():
   print("Hello World.")
   
   
@@ -8,5 +8,5 @@ def main():
 
   #print(quotes)
 
-if __name__== "__main__":
-  main()
+if __name__== "__primary__":
+  primary()
